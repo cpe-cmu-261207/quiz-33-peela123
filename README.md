@@ -19,4 +19,5 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-https://codesandbox.io/p/github/cpe-cmu-261207/quiz-33-peela123/draft/frosty-joana?file=%2FREADME.md
+https://codesandbox.io/p/github/cpe-cmu-261207/quiz-33-peela123/draft/frosty-joana?file=%2FREADME.md 
+(buildsandbox ไม่ได้**********)
