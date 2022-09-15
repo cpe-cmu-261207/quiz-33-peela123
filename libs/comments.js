@@ -1,3 +1,5 @@
+import { createContext } from "react";
+
 export const comments = [
   {
     username: "Lisa",
@@ -27,3 +29,5 @@ export const comments = [
     replies: [],
   },
 ];
+
+
